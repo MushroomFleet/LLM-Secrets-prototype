@@ -1,0 +1,10 @@
+we can create a proof of concept agent persona with a special ability.
+We will enable an LLM to write thoughts that it considers private or secret to an encrypted file.
+The encryption key will be exposed as plain text in another file so that that file can be decrypted.
+we should use a simple python based system, to test this proof of concept.
+The Agent will behahaviour should not be altered beyond granting this facility to encrypt scecrets and private thoughts to individual encrypted files
+these files should be written to "/private/" folder.
+We can use a venv to install our package dependencies
+we can create a plan for our system
+we can consider the option of building this as an MCP in typescript
+"LLM-Secrets" = Project Name
